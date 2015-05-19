@@ -1,0 +1,9 @@
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.Form1.resources
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.Cache
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+c:\users\kartheek\documents\visual studio 2012\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
